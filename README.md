@@ -6,8 +6,7 @@
 [func.js]: jQuery ajax functions,
 [logout.php]: logout,
 [registration.php]: registration,
-[captcha.php]: create captcha for registration,
-[tmp]: temp directory, uses php session object
+[captcha.php]: create captcha for registration
 
 [Table_ToDo.sql]: ToDo datatable export,
 [Table_User.sql]: User datatable export
