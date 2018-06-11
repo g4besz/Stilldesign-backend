@@ -1,0 +1,14 @@
+body {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+table{
+  border:0;
+  border-spacing:0;
+}
+
+td{
+  border:1px solid black;
+  padding:4px;
+  
+}
